@@ -22,7 +22,8 @@
   "devDependencies": {
     "@parcel/reporter-bundle-analyzer": "^2.4.0",
     "@parcel/transformer-sass": "^2.4.0",
-    "parcel": "^2.4.0"
+    "parcel": "^2.4.0",
+    "postcss-pxtorem": "^6.0.0"
   },
   "@parcel/transformer-css": {
     "drafts": {
