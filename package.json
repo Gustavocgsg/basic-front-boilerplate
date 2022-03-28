@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/desenvolvweb/basic-front-boilerplate#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.3.1",
     "parcel-plugin-nuke-dist": "^1.0.1",
     "sass": "^1.23.3"
   },
